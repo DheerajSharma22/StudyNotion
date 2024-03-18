@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 640px) {
+  .enrolledCoursesTR {
+    padding: 2rem 0.5rem !important;
+  }
+}
